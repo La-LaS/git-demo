@@ -8,4 +8,10 @@ adding few more changes and editing the file
 
 ## adding some more ipsum
 
+this is something added to test the -a and m flag
 
+-a is throing fatal error
+
+## adding more ipsum
+
+Lorum Ipsum
