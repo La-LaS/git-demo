@@ -18,4 +18,4 @@ Lorum Ipsum
 
 
 ## website plan
-index.html
+index.html -- updated the index page
